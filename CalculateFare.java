@@ -1,6 +1,6 @@
 package com.bridgelabz.cabInvoice;
 
-public class CalculateFareUC1 {
+public class CalculateFare {
 	    private static final int COST_PER_MIN = 1;
 	    private static final double MINIMUM_FARE = 5.0;
 	    private static final double COST_PER_KILO = 10.0;
